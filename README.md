@@ -1,2 +1,2 @@
-# 3d-files
-Collection of files for my Creality Ender-3
+# Pixelstrudel's 3D Files
+Collection of (sliced) files for my Creality Ender-3
