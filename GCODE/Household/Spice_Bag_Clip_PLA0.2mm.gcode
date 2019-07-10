@@ -37,6 +37,7 @@ G90 ; absolute positioning
 M82; set extruder to absolute mode
 
 G28;
+G29;
 M92 E94.55 ;Calibrated Extruder
 
 ; Prepare nozzle
