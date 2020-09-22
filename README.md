@@ -1,4 +1,4 @@
-![](https://i.imgur.com/y5LxSYA.jpg)
+![](https://i.imgur.com/XK3WxMW.jpeg)
 
 # (Sliced) files for the Creality Ender-3
 
